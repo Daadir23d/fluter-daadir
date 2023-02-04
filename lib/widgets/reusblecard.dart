@@ -47,11 +47,11 @@ class Reusble_Card extends StatelessWidget {
               Row(
                 children: [
                   Image.asset(
-                    'lib/images/man.png',
+                    'lib/images/man.jpeg',
                     width: 30,
                   ),
                   Image.asset(
-                    'lib/images/man.png',
+                    'lib/images/man.jpeg',
                     width: 30,
                   ),
                 ],

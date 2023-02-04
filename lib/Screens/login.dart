@@ -25,7 +25,7 @@ class _LoginscrenState extends State<Loginscren> {
             Container(
               width: 100,
               height: 100,
-              child: Image.asset('lib/images/man.png'),
+              child: Image.asset('lib/images/man.jpeg'),
             ),
             const SizedBox(
               height: 20,

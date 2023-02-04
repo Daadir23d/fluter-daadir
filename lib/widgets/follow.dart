@@ -24,7 +24,7 @@ class follwe extends StatelessWidget {
               margin: EdgeInsets.only(top: 40),
               width: 100,
               child: Image.asset(
-                'lib/images/man.png',
+                'lib/images/man.jpeg',
                 fit: BoxFit.contain,
               ),
             ),

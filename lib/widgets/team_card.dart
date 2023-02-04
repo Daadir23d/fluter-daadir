@@ -60,11 +60,11 @@ class team_card extends StatelessWidget {
             child: Row(
               children: [
                 Image.asset(
-                  'lib/images/man.png',
+                  'lib/images/man.jpeg',
                   width: 40,
                 ),
                 Image.asset(
-                  'lib/images/man.png',
+                  'lib/images/man.jpeg',
                   width: 40,
                 ),
               ],
