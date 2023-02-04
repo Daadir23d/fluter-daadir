@@ -10,7 +10,7 @@ class Loginscren extends StatefulWidget {
 
 class _LoginscrenState extends State<Loginscren> {
   @override
-  String UserName = 'amiin';
+  String UserName = 'daada';
   String Password = '12345';
 
   String User = '';

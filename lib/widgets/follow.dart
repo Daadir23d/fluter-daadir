@@ -32,7 +32,7 @@ class follwe extends StatelessWidget {
               height: 10,
             ),
             Text(
-              "Richard A Bachmann",
+              "Daadir Abdukadir",
               style: GoogleFonts.poppins(
                   fontSize: 20, fontWeight: FontWeight.w600, color: txcoler),
             ),
